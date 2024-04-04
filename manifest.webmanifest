@@ -5,7 +5,7 @@
   "theme_color": "#1565c0",
   "background_color": "#1565c0",
   "icons": [{
-    "src": "/media/iconsS.png",
+    "src": "/media/icons/brands/iconsS.png",
     "sizes": "67x67",
     "type": "image/png"
     } 
