@@ -6,13 +6,10 @@
   "background_color": "#1565c0",
   "icons": [{
     "src": "/media/iconsS.png",
-    "sizes": "192x192",
+    "sizes": "67x67",
     "type": "image/png"
-    }, {
-    "src": "/media/iconsS.png",
-    "sizes": "512x512",
-    "type": "image/png"
-     }],
+    } 
+    ],
   "display": "standalone",
   "start_url": "/?utm_source=web_app_manifest"
 }
